@@ -1,0 +1,25 @@
+{
+    "name": "ref-parser",
+    "version": "1.0.0",
+    "description": "A parser function to parser reference into an object",
+    "main": "index.js",
+    "author": {
+        "name": "Nicolas BONNEAU"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [
+        "reference",
+        "parser",
+        "object"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "extend": "^3.0.2",
+        "object-path": "^0.11.4"
+    },
+    "devDependencies": {
+        "chai": "^4.1.2"
+    }
+}
