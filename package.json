@@ -6,6 +6,10 @@
     "author": {
         "name": "Nicolas BONNEAU"
     },
+    "repository": {
+        "url": "https://github.com/nbonneau/ref-parser.git",
+        "type": "git"
+    },
     "scripts": {
         "test": "mocha"
     },
